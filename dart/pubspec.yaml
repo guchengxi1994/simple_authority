@@ -1,0 +1,11 @@
+name: simple_authority_dart
+
+environment:
+  sdk: ">=3.0.0"
+
+dependencies:
+  quiver: ^3.2.1
+
+dev_dependencies:
+  lints: any
+  test: any
